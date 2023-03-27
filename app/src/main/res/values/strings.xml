@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Android Fragments</string>
+    <string name="Welcome_text">Android Studio\nFragments</string>
+    <string name="credits">Designed By Santhosh S 200701221 REC\nMobile Application Development Laboratory</string>
+    <string name="get_started">Get Started</string>
+    <string name="mark_details">Mark Details</string>
+    <string name="basic_details">Basic Details</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="your_name">Your Name</string>
+    <string name="your_age">Your Age</string>
+    <string name="your_address">Your Address</string>
+    <string name="save">Save</string>
+    <string name="reset">Reset</string>
+    <string name="below_enter_your_basic_details_about_nyour_name_age_address"><![CDATA[Below Enter your basic details about\nyour name,age & address]]></string>
+    <string name="student_s_basic_details">Student\'s Basic Details</string>
+</resources>
