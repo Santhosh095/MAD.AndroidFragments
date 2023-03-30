@@ -14,5 +14,11 @@
     <string name="save">Save</string>
     <string name="reset">Reset</string>
     <string name="below_enter_your_basic_details_about_nyour_name_age_address"><![CDATA[Below Enter your basic details about\nyour name,age & address]]></string>
+    <string name="below_enter_your_basic_details_about_nyour_mark"><![CDATA[Below Enter your mark details about\nyour Marks,Total,Grade & Status]]></string>
     <string name="student_s_basic_details">Student\'s Basic Details</string>
+    <string name="student_s_mark_details">Student\'s Marks Details</string>
+    <string name="status">Status</string>
+    <string name="grade">Grade</string>
+    <string name="marks">Marks</string>
+    <string name="total">Total</string>
 </resources>
